@@ -1,0 +1,14 @@
+Source: aikon-n9
+Section: user/network
+Priority: optional
+Maintainer: Community Developer <developer@example.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.8.4
+
+Package: aikon-n9
+Architecture: all
+Depends: ${misc:Depends}, python (>= 2.7), python-pyside.qtgui, python-pyside.qtdeclarative
+Description: AIKON Claude & Multi-AI Client for Nokia N9
+ A modern AI chat client bringing Claude 3.5 Sonnet, GPT-4o, Gemini,
+ and Grok to Nokia N9 MeeGo Harmattan with Sailfish OS (Silica) styling
+ and gesture-driven UI.

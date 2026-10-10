@@ -1,0 +1,6 @@
+# AIKON PC Bridge Server Requirements
+# Note: server.py runs out-of-the-box using standard Python 3 libraries with ZERO external packages required!
+# Optional packages for custom integrations:
+# requests>=2.28.0
+# anthropic>=0.18.0
+# openai>=1.0.0

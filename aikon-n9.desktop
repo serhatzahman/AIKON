@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=AIKON Claude
+Exec=/usr/bin/python /opt/aikon-n9/main.py
+Icon=/opt/aikon-n9/assets/aikon-80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+Comment=Claude and modern AI chat client with Sailfish OS styling
+Categories=Network;Chat;
